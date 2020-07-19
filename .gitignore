@@ -1,0 +1,10 @@
+*.py[co]
+.ipynb_checkpoints
+test.ipynb
+.env
+.python-version
+.envrc
+local_config.*
+__pycache__/
+venv
+chinese-poetry
