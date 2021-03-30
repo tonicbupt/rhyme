@@ -9,7 +9,7 @@ pexpect==4.8.0
 pickleshare==0.7.5
 prompt-toolkit==3.0.5
 ptyprocess==0.6.0
-Pygments==2.6.1
+Pygments==2.7.4
 pypinyin==0.38.1
 redis==3.5.3
 six==1.15.0
